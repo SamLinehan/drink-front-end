@@ -1,0 +1,16 @@
+* {
+  font-family: arial; }
+
+main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: baseline; }
+
+nav {
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around; }
+
+/*# sourceMappingURL=styles.css.map */
